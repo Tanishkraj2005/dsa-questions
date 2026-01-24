@@ -10,6 +10,6 @@ int main(){
     stringstream ss(str);
     string temp;
     while(ss>>temp){
-        cout<<temp<<endl;
+        cout<<temp<<endl
     }
 }
