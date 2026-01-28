@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Tanishkraj2005/dsa-questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3099-harshad-number](https://github.com/Tanishkraj2005/dsa-questions/tree/master/3099-harshad-number) |
 ## Bit Manipulation
 |  |
 | ------- |
