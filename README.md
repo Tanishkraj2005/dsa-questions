@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0035-search-insert-position) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Tanishkraj2005/dsa-questions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2974-minimum-number-game](https://github.com/Tanishkraj2005/dsa-questions/tree/master/2974-minimum-number-game) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Tanishkraj2005/dsa-questions/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/Tanishkraj2005/dsa-questions/tree/master/2974-minimum-number-game) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
